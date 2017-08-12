@@ -1,5 +1,4 @@
-﻿  1.2.cpp
-g:\demo[c]\c and points\c and points\1.2.cpp(29): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(343): note: 参见“strncpy”的声明
-  C and Points.vcxproj -> G:\Demo[C]\C and Points\Debug\C and Points.exe
-  C and Points.vcxproj -> G:\Demo[C]\C and Points\Debug\C and Points.pdb (Partial PDB)
+﻿  2.1.cpp
+  LINK : 没有找到 G:\Demo[C]\Conpoints\Debug\C and Points.exe 或上一个增量链接没有生成它；正在执行完全链接
+2.1.obj : error LNK2005: _main 已经在 1.1.obj 中定义
+G:\Demo[C]\Conpoints\Debug\C and Points.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
